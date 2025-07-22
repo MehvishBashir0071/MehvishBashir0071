@@ -1,4 +1,4 @@
-# Hi reader 👋  
+# Hi reader  
 I'm **Mehvish Bashir**, a passionate **Full Stack Developer**, **Machine Learning** & **Blockchain** enthusiast.  
 I love building smart, scalable web apps and AI-powered systems that solve real-world problems.
 
