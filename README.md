@@ -1,12 +1,12 @@
 # Hi reader 👋  
-I'm **Mehvish Bashir**, a passionate **Full Stack Developer**, **Machine Learning** & **Blockchain** enthusiast. 👩‍💻  
+I'm **Mehvish Bashir**, a passionate **Full Stack Developer**, **Machine Learning** & **Blockchain** enthusiast.  
 I love building smart, scalable web apps and AI-powered systems that solve real-world problems.
 
 ---
 
-##  Projects I'm working on:
+## 🎓 🧠 🩺 🔗 🕵️‍♀️ Projects I'm working on:
 
--  **College ERP System**  
+-   **College ERP System**  
   Full-featured platform for student, admin & faculty management — built from scratch using modern tech.
 
 - **AI-Powered Career Advisor**  
