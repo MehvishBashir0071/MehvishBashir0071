@@ -4,7 +4,7 @@ I love building smart, scalable web apps and AI-powered systems that solve real-
 
 ---
 
-## 🎓 🧠 🩺 🔗 🕵️‍♀️ Projects I'm working on:
+## Projects I'm working on:
 
 -   **College ERP System**  
   Full-featured platform for student, admin & faculty management — built from scratch using modern tech.
