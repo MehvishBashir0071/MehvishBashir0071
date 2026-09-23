@@ -15,7 +15,7 @@ Software Engineer with enterprise experience at **UKG (Ultimate Kronos Group)**,
   * **High-Scale Database Optimization:** Slashed HRMS statement query latency from **5.5s to 200 ms (96.4% reduction)** across 12M+ rows by analyzing execution plans and engineering composite B-tree indexes.
   * **Enterprise AI & State Persistence:** Engineered conversational memory and state persistence in MongoDB for the *Model My Pay* agent; built an 8-step REST tool-calling pipeline with *Google Vertex AI* for statutory tax reasoning.
   * **Micro-Feature & Release Safety:** Built in-app employee support integrations with PayActiv, guarded by *LaunchDarkly* feature flags and 179 automated Jest unit tests.
-* 🎓 **B.Tech in Computer Science & Engineering (AI & ML)** @ **Birla Institute of Technology (BIT), Mesra** *(2022 – 2026 | CGPA: 7.82/10)*
+* 🎓 **B.Tech in Computer Science & Engineering (AI & ML)** @ **Birla Institute of Technology (BIT), Mesra** *(2022 – 2026)*
 *  **Competitive Programming:** Codeforces **Pupil** (Peak Global Rank: **3,763 / 19,000+**; Global Rank **6,032 / 23,000+** in Round 1029).
 
 ---
